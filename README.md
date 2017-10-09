@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2FML_for_Hackers.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2FML_for_Hackers?ref=badge_shield)
+
 # Code for Machine Learning for Hackers #
 
 This repository contains all of the code examples for [Machine Learning for Hackers](http://shop.oreilly.com/product/0636920018483.do) (2012).  The code may not appear exactly as it does in the text, as additional comments and modifications may have been added since publication.
@@ -32,3 +34,6 @@ For more information on FreeBSD see: [http://www.opensource.org/licenses/bsd-lic
 
 All images and materials produced by this code are licensed under the Creative Commons 
 Attribution-Share Alike 3.0 United States License: [http://creativecommons.org/licenses/by-sa/3.0/us/](http://creativecommons.org/licenses/by-sa/3.0/us/)
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2FML_for_Hackers.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2FML_for_Hackers?ref=badge_large)
